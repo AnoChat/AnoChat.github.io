@@ -1,6 +1,6 @@
 {
-    "name": "anonymous_chat",
-    "short_name": "anonymous_chat",
+    "name": "IncoChat",
+    "short_name": "IncoChat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
