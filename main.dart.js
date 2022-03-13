@@ -7757,7 +7757,7 @@ _.b=b
 _.c=c
 _.d=d
 _.$ti=e},
-aso(){return(A.ako("0.0.0.0:8080"[0],null)!=null?"http":"https")+"://0.0.0.0:8080/api"},
+aso(){return(A.ako("anonymous-chat-gg.herokuapp.com"[0],null)!=null?"http":"https")+"://anonymous-chat-gg.herokuapp.com/api"},
 anm(a,b,c,d){return A.eQ(J.Ex(t.j.a(b),new A.Ub(c,d),t.z),!0,d)},
 Ey(a,b,c,d){return A.ays(a,b,c,d,d)},
 ays(a,b,c,d,e){var s=0,r=A.P(e),q,p
@@ -37633,7 +37633,7 @@ s.mP()
 A.uQ(s.dy,new A.Uv(s),t.ob)},
 mP(){var s=0,r=A.P(t.z),q,p=this,o,n,m,l,k,j
 var $async$mP=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:$.fz.b=A.aA5(A.jv("wss://0.0.0.0:8080/ws",0,null),null)
+while(true)switch(s){case 0:$.fz.b=A.aA5(A.jv("wss://anonymous-chat-gg.herokuapp.com/ws",0,null),null)
 o=new A.Uu(p)
 s=3
 return A.S(A.aaR($.fz.by()),$async$mP)
